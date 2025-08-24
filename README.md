@@ -4,7 +4,10 @@
 - **Experience with**: C++, Java
 - **Frameworks & Libraries**: Next.js, Unity, Tailwind CSS, React
 - **Tools**: Git, Docker
+-- | -- | --
 
+---
 ## 🌍 Find Me Online
 - Discord: itzmelite
 - 🤷
+-- | -- | --
