@@ -1,10 +1,6 @@
 # Hi, I'm Lite 👋
 
-## 🚀 About Me
-I am a software engineer with around 5 years of development experience. I specialize in systems programming and production infrastructure.
-
 ### Notable Projects
-
 #### 🎮 **Nevo Engine** (C++)
 - A 3D game engine tailored for developers who are comfortable with C++ and prefer data-oriented design.
 - Currently the primary project I am working on
