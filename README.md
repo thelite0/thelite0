@@ -14,4 +14,12 @@
 ### 🌐 Find Me
 - **GitHub**: [@thelite0](https://github.com/thelite0)
 - **Discord**: itzmelite
-- **Projects**: [Nevo Engine](https://github.com/Nevo-Engine), [Vixeon](https://github.com/vixeonapp)
+
+### Active work:
+- [**EXOFORCE**](https://exoforce.org/)
+- [**Small LM AI Research**](https://ai.exoforce.org/)
+- [**Roblox game**](https://discord.com/invite/offhours)
+
+### Historical work:
+- [**Semi-Decentralized Discord platform**](https://github.com/orgs/vixeonapp/repositories) (Cancelled)
+- [**Playmanity**](https://playmanity.net/)
