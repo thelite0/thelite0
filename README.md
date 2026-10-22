@@ -37,4 +37,3 @@ Git · Figma
 
 - **GitHub:** [@thelite0](https://github.com/thelite0)
 - **Discord:** `itzmelite`
-- **Discord:** `raz3ware` <- active
